@@ -1,12 +1,5 @@
 # AI_project-Image-Classification-
-1
-Chandawad Saurav Balaji
 
-IEC2020119
-IIIT Allahabad
-04 September 20XX
-AI Major Project
-Project Overview
 From a long time the term named AI has fascinated us a lot.So here's an AI project
 built by me Which identifies the given handwritten(scribbled) image and Displays it.
 This project is built with the help of tensorflow and Keras.TensorFlow is a very popular
